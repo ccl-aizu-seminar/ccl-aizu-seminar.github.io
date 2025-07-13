@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{tables.html}, showsource, addcss{table}
+= CCL Alumni Homecoming 2025
+
+
+== Overview
+
+📍 Location: The University of Aizu {{<br>}} {{<br>}}
+
+📅 Date: Sunday, August 31, 2025 {{<br>}} {{<br>}}
+
+🕥 Time: 10:30 - 15:00 {{<br>}} {{<br>}}
+
+== Tentative Schedule
+~~~
+{}{table}{schedule}
+Time | Activity ||
+*10:00 - 10:30* | *Welcome* ||
+
+*10:30 - 11:30* | *Alumni Seminar & Sharing Session* {{<ul>
+<li><p>Opening remarks</p></li>
+<li><p>Short talks from alumni and students</p></li>
+<li><p>Reflections and lab updates</p></li>
+<li><p>Acknowledgment of Prof. Pham’s 20-year contribution (light and respectful)</p></li>
+</ul>}} ||
+
+*11:30 - 12:00* | *Group Photo Session* ||
+
+*12:00 - 12:30* | *Break & Transition to Party Venue* ||
+
+*12:30 - 15:00* | *Reunion Lunch Party* {{<ul>
+<li><p>Enjoy lunch together, share memories, and reconnect across generations</p></li>
+</ul>}} ||
+
+*15:00* | *Closing*
+~~~

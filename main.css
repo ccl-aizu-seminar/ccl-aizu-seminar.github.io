@@ -480,4 +480,26 @@ td.menu_table {
   .menu-item { 
     margin-bottom: 15px; 
   }
+
+#schedule {
+	table-layout: fixed;
+	width: 80%;
+	height: 100%; 
+}
+
+#schedule td.c1 { 
+	width: 100px;
+}
+
+#schedule td.c2 { 
+	text-align:left;
+	width: 500px;
+}
+
+#schedule tr.r1 { 
+	font-weight: bold; 
+	color: red;
+	text-align: center;
+	border-bottom: 2px solid black;
+}
   

@@ -29,3 +29,7 @@ cd $dir
 cd jemdoc_files/achived_RegSeminars
 ./jemdoc -c ../subsite.conf -o ../../html/achived_RegSeminars/ *.jemdoc
 cd $dir
+
+cd jemdoc_files/CCL_alumni_meeting
+./jemdoc -c ../subsite.conf -o ../../html/CCL_alumni_meeting/ *.jemdoc
+cd $dir
