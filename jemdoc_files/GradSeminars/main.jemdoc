@@ -1,6 +1,13 @@
 # jemdoc: menu{MENU}{tables.html}, showsource, addcss{table}
 = Graduation Seminars
 
+== AY 2025
+~~~
+{}{table}{seminars}
+Time & Place | Topic | Presenter | Note ||
+10:00 - 10:30, Aug. 5, 2025 in M12 | Multi-user Visible Light Communication with Probabilistic Constellation Shaping and Precoding | NGUYEN Thang | Master's Thesis Presentation
+~~~
+
 == AY 2024
 ~~~
 {}{table}{seminars}
