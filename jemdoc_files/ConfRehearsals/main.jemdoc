@@ -1,9 +1,12 @@
 # jemdoc: menu{MENU}{tables.html}, showsource, addcss{table}
-= Confererence Rehearsals
+= Confererence
 
 ~~~
 {}{table}{seminars}
 Date | Topic | Presenter | Note ||
+2025, Dec. | [../../slides/ConfRehearsals/2025.Hoa_GLOBECOM.pdf Jolt-FL: A General-Purpose Verifiable Federated Learning Framework Powered by zkVM] | NGUYEN Hoa | GLOBECOM 2025 ||
+2025, Jun. | [../../slides/RegSeminars/khanh11062025.pdf Spatial Resource Allocation for Optical IRS-Aided HAP-Assisted Multi-UAV Networks] | DANG Khanh | VTC-Spring 2025 ||
+2024, Jul. | [../../slides/ConfRehearsals/2024.Cuong_CSNDSP.pdf Blind Reconciliation with Protograph LDPC Code Extension for FSO-based Satellite QKD Systems] | NGUYEN Cuong | CSNDSP 2024 ||
 2022, Nov. 24 | [../../slides/ConfRehearsals/giang2022low.pdf Low-latency Communications in MEC-enabled UAV Systems: A Deep Reinforcement Learning Approach] | PHAM Giang | ICETC 2022 ||
 2022, Nov. 24 | [../../slides/ConfRehearsals/minh2022proposal.pdf A Proposal of Satellite-based FSO\/QKD System for Multiple Wireless Users] | VU Minh | ICETC 2022 ||
 2022, Sept. 16 | [../../slides/ConfRehearsals/tinh2022echo.pdf Echo State Network for Turbulence-Induced Fading Channel Prediction in Free-Space Optical Systems] | NGUYEN Tinh | WCSE 2022 ||
